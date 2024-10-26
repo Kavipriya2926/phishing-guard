@@ -1,0 +1,6 @@
+streamlit 
+google-generativeai 
+pycaret 
+python-whois 
+httpx 
+pandas
