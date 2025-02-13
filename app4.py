@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Predefined API key - Replace with your actual key
-GEMINI_API_KEY = "AIzaSyC2WZ2Qyr2w1xWBdfKQQDmZc7w8VMImwZg"
+GEMINI_API_KEY = "AIzaSyDQ1WxkZz6oyW544IryJX31CwBaoiQpLog"
 
 # Configure Gemini
 genai.configure(api_key=GEMINI_API_KEY)
